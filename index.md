@@ -1,6 +1,11 @@
 ---
 title: The Larian Archives
+date: 4/1/2025
 ---
+Hello! This is the Larian Archives, the repository of work written by yours truly, Kylin Vartilo. I've been in the process of developing a contemporary high-fantasy world, but all my longer projects are unfortunately not ready for release. In the meanwhile, I have a lot of short-form content focused on exploring deep feelings of guilt, obligatory sacrifice, desperate ambition, and regret. I'm always excited to talk about my work or collaborate with other fantasy authors, so feel free to DM me on platforms like Bluesky (https://bsky.app/profile/kylinvartilo.bsky.social) or simply reach out to me at kylin.vartilo@gmail.com!
+
+________________________________________________________________________
+
 ![A WAY TO SHUT YOU UP](https://github.com/user-attachments/assets/c6f205a2-4a67-4864-820c-c7bf9856e417)
 
 Word Count: 4339
@@ -11,7 +16,7 @@ Design by the author.
 
 [A Way to Shut You Up.pdf](https://github.com/user-attachments/files/19559356/A.Way.to.Shut.You.Up.pdf)
 
-______________________________________
+________________________________________________________________________
 
 ![Give me Wings   I Will Fly](https://github.com/user-attachments/assets/19a50f90-0013-426f-8ee6-accf07d3b87e)
 
@@ -23,7 +28,7 @@ Design by the author.
 
 [Give Me Wings and I Will Fly.pdf](https://github.com/user-attachments/files/19559532/Give.Me.Wings.and.I.Will.Fly.pdf)
 
-______________________________________
+________________________________________________________________________
 
 ![I'LL SAVE YOU THIS ONE TIME](https://github.com/user-attachments/assets/a01985a9-923b-4183-9dfd-78936c9c256c)
 
@@ -39,7 +44,7 @@ Design by the author.
 
 [I'LL SAVE YOU THIS ONE TIME.pdf](https://github.com/user-attachments/files/19559321/I.LL.SAVE.YOU.THIS.ONE.TIME.pdf)
 
-______________________________________
+________________________________________________________________________
 
 ![Writing_on_the_Wall](https://github.com/user-attachments/assets/a3c1cba3-9c05-4839-95b6-92fd66a7a219)
 
